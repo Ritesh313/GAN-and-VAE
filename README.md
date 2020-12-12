@@ -5,5 +5,7 @@ GAN (Generative Adversarial Networks)\cite{goodfellow2014generative} and VAE (Va
 
 The notebooks were created on colab, you can either upload them on colab or run on any other system. The code is cuda enabled, it'll switch to cuda if there's one available. Please contact me if you have any issues with the code.
 VAE best result: 
+
+
 ![Alt text](https://github.com/Ritesh313/GAN-and-VAE/blob/main/Github/VAE_final.png)
 
