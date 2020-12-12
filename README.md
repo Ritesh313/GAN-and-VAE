@@ -11,3 +11,5 @@ VAE best result:
 
 GAN best result:
 
+![Alt text](https://github.com/Ritesh313/GAN-and-VAE/blob/main/Github/GAN_output.png)
+
